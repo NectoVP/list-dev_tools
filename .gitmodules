@@ -1,0 +1,3 @@
+[submodule "bmp-32-24-reader-writer"]
+	path = bmp-32-24-reader-writer
+	url = https://github.com/NectoVP/bmp-32-24-reader-writer.git
